@@ -1,13 +1,13 @@
 # Sobre mim
 
-Olá! Me chamo Leandro Rodrigues, sou de São Paulo, tenho 19 anos e sou web developer front-end, atualmente focado em Next.js
+Olá! Me chamo Leandro Rodrigues, sou de São Paulo, tenho 19 anos e sou web developer full-stack, atualmente focado em Next.js
 
 Abaixo estão algumas ferramentas/tecnologias que utilizo/já utilizei:
 
-- HTML, CSS, JavaScript, TypeScript.
-- Next.js, T3, React, React Native.
-- Shadcn/ui, Tailwind CSS, Material-UI, Styled Components.
-- Prisma, Auth.js, GraphQL, TRPC, Clerk.js.
+- React.js, Next.js, Typescript.
+- Shadcn/ui, Tailwind CSS, HeadlessUI.
+- Prisma, Auth.js, Clerk.js.
+- PostgreSQL, MySQL.
 - Git, GitHub.
 
 <div valign="top">
@@ -15,7 +15,6 @@ Abaixo estão algumas ferramentas/tecnologias que utilizo/já utilizei:
   <img align="center" alt="Next.Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="tRPC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trpc/trpc-original.svg">
   <img align="center" alt="Prisma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
   <img align="center" alt="Prisma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
