@@ -1,28 +1,33 @@
-# Sobre mim
+# README.md
 
-Olá! Me chamo Leandro Rodrigues, sou de São Paulo, tenho 19 anos e sou web developer full-stack, atualmente focado em Next.js
+## Sobre mim
 
-Abaixo estão algumas ferramentas/tecnologias que utilizo/já utilizei:
+Me chamo Leandro Rodrigues, web developer full-stack. Moro no estado de São Paulo e tenho 19 anos. Cursei o Ensino Médio na instituição Etec Polivalente de Americana, com o curso técnico integrado de Desenvolvimento de Sistemas, durante o período de 2020-2022. Hoje estou fazendo a minha graduação em Ciências da Computação, na FAM (Faculdade de Americana).
 
-- React.js, Next.js, Typescript.
-- Shadcn/ui, Tailwind CSS, HeadlessUI.
-- Prisma, Auth.js, Clerk.js.
+Tive interesse em programação no início de 2019, quando comecei a estudar HTML, CSS. Um tempo após, entrei para JavaScript e dentro de algum pequeno período, PHP. Hoje desenvolvo meus projetos em TypeScript juntamente com Next.js.
+
+## Tech Stack
+
+Abaixo estão algumas bibliotecas e linguagem que utilizo atualmente:
+
+- Next.js, Typescript.
+- shadcn/ui, TailwindCSS.
+- Prisma, Drizzle, Auth.js, Clerk, Neon Serverless.
 - PostgreSQL, MySQL.
 - Git, GitHub.
 
-<div valign="top">
-  <img align="center" alt="React.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Next.Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Prisma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
-  <img align="center" alt="Prisma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<div>
+  <img alt="Next.Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img alt="Tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img alt="Prisma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
+  <img alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
 </br>
 
-Sempre em busca de aprender novas tecnologias e aprimorar as minhas habilidades. Atualmente, estou focado em aprofundar meu conhecimento em Next.js.
+>Sempre em busca de aprender novas tecnologias e aprimorar as minhas habilidades. Se você tem algum projeto, me chame! Bora codar!
 
 ## Contato
 
