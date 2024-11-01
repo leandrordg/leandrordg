@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Me chamo Leandro Rodrigues, web developer full-stack. Tenho 19 anos e atualmente estou morando em São Paulo. Cursei o Ensino Médio na instituição Etec Polivalente de Americana, com o curso técnico integrado de Desenvolvimento de Sistemas, durante o período de 2020-2022. Hoje estou fazendo a minha graduação em Ciências da Computação, na FAM (Faculdade de Americana).
+Sou um desenvolvedor full stack de 20 anos, com foco em criar aplicações web completas e performáticas. Utilizo Next.js tanto no front-end quanto no back-end, além de TypeScript, garantindo maior segurança e qualidade no código. Tenho conhecimento e habilidade em Prisma, PostgreSQL e Firebase.
 
 Tive interesse em programação no início de 2019, quando comecei a estudar HTML, CSS. Um tempo após, entrei para JavaScript e dentro de algum pequeno período, PHP. Hoje desenvolvo meus projetos em TypeScript juntamente com Next.js.
 
