@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou um desenvolvedor full stack de 20 anos, com foco em criar aplicações web completas e performáticas. Utilizo Next.js tanto no front-end quanto no back-end, além de TypeScript, garantindo maior segurança e qualidade no código. Tenho conhecimento e habilidade em Prisma, PostgreSQL e Firebase.
+Sou um desenvolvedor web full stack, com foco em criar aplicações web completas e performáticas. Utilizo Next.js junto com TypeScript, garantindo maior segurança e qualidade no código. Tenho conhecimento e habilidade em Prisma, PostgreSQL e Firebase.
 
 Tive interesse em programação no início de 2019, quando comecei a estudar HTML, CSS. Um tempo após, entrei para JavaScript e dentro de algum pequeno período, PHP. Hoje desenvolvo meus projetos em TypeScript juntamente com Next.js.
 
