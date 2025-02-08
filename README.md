@@ -16,3 +16,5 @@ const skills: Skills = {
 
 export { aboutMe, skills };
 ```
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,postgresql,graphql,mongodb,prisma,firebase,tailwind,styledcomponents,materialui,pnpm,git,github,vscode)](https://skillicons.dev)
