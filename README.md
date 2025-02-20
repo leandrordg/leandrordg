@@ -11,7 +11,7 @@ const aboutMe: AboutMe = {
 const skills: Skills = {
   languages: string[] = ["Javascript", "Typescript", "Python"],
   libraries: string[] = ["React", "React Native", "Node.js"],
-  frameworks: string[] = ["Next.js", "Express.js"],
+  frameworks: string[] = ["Next.js", "Express.js", "Fastify"],
 };
 
 export { aboutMe, skills };
