@@ -9,10 +9,10 @@ const aboutMe: AboutMe = {
 };
 
 const skills: Skills = {
-  languages: ["TypeScript", "Python"],
-  libraries: ["React", "Node.js", "Express.js"],
-  frameworks: ["Next.js", "TailwindCSS", "Fastify"],
-  tools: ["Git", "GitHub", "Docker", "Vercel", "Postman"],
+  languages: ["TypeScript", "JavaScript"],
+  frameworks: ["Next.js", "React Native"],
+  databases: ["PostgreSQL", "Redis"],
+  tools: ["Git", "GitHub", "Docker", "Vercel", "AWS"],
 };
 
 const developer: Developer = { aboutMe, skills };
