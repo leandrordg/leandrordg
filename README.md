@@ -1,28 +1,43 @@
-```ts
-import type { Developer, AboutMe, Skills } from "leandrordg";
+<img src="https://s6.gifyu.com/images/bzyCs.gif" alt="Introdução" width="100%" />
 
-const aboutMe: AboutMe = {
-  name: "Leandro Rodrigues",
-  field: "Full Stack Web Developer",
-  location: "São Paulo, Brazil",
-  studies: "Studying Computer Science",
-  job: "Freelancer",
-};
+# Olá, me chamo Leandro Rodrigues Bertalhia 👋
 
-const skills: Skills = {
-  languages: ["TypeScript", "JavaScript", "Python"],
-  frameworks: ["Next.js", "React Native"],
-  databases: ["PostgreSQL", "Redis"],
-  tools: ["Git", "GitHub", "Docker", "Vercel", "AWS"],
-};
+[![Gmail](https://img.shields.io/badge/gmail-%23F85656?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lrbertalhia@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leandrordg)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lrbertalhia)
+[![Portfolio](https://img.shields.io/badge/portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lbertalhia.vercel.app)
 
-const developer: Developer = { aboutMe, skills };
+## Sobre mim:
 
-export default developer;
-```
+💻 **Desenvolvedor Full Stack**, atualmente cursando o 5º semestre de Ciências da Computação.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,nextjs,postgres,redis,aws,graphql,git,github,docker,vercel" />
-  </a>
+🧒 **Minha trajetória com tecnologia**: Desde a infância, fui sempre fascinado por computadores, o que naturalmente despertou meu interesse pela programação e me levou a explorar o nosso universo da tecnologia.
+
+## Techs que domino:
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="40"/>
+</p>
+
+## Estou me aperfeiçoando em:
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40"/>
+</p>
+
+## Atualmente estudando:
+
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"/>
 </p>
