@@ -13,7 +13,7 @@
 
 🧒 **Minha trajetória com tecnologia**: Desde a infância, fui sempre fascinado por computadores, o que naturalmente despertou meu interesse pela programação e me levou a explorar o nosso universo da tecnologia.
 
-## Techs que domino:
+## Techs que tenho experiência:
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40"/>
